@@ -1,0 +1,14 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "light",
+  "license": "MIT",
+  "dependencies": {
+    "assets-webpack-plugin": "^0.2.0"
+  }
+}
